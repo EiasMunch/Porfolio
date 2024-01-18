@@ -1,4 +1,4 @@
-# Porfolio
+# Poryecto final
 Tester - Egresado de Jóvenes a Programar por Plan ceibal 
 
 El proyecto final se baso en contar con un equipo de trabajo para testear un sitio web. 
