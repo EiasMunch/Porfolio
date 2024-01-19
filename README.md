@@ -11,18 +11,13 @@ Por último en la etapa 4 se realizó el informe ejecutivo donde en el mismo se 
 Les dejo una guía de los documentos en base a las etapas:
 
 Etapa 1:
--Diagrama de Gantt
--Informe 1_Etapa 1
--Tarea indivudual_Etapa 1
+-Diagrama de Gantt, Informe 1_Etapa 1 y Tarea indivudual_Etapa 1
 
 Etapa 2:
--Tarea individual Etapa_2
--Proyecto Etapa 2
+-Tarea individual Etapa_2 y Proyecto Etapa 2
 
 Etapa 3:
--Tarea indivudual Etapa_3
--Prouecto Etapa 3
+-Tarea indivudual Etapa_3 y Prouecto Etapa 3
 
 Etapa 4:
--Tarea individual Etapa_4
--Informe ejecutivo en ingles
+-Tarea individual Etapa_4 y Informe ejecutivo en ingles
